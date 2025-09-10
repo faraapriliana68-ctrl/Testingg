@@ -9,7 +9,7 @@
 
 # Laravel Testing Project
 
-[![Laravel Tests](https://github.com/faraapriliana68-ctrl/Testingg/actions/workflows/laravel-tests.yml/badge.svg)](https://github.com/faraapriliana68-ctrl/Testingg/actions/workflows/laravel-tests.yml)
+[![Laravel Tests] [![Laravel Tests](https://github.com/faraapriliana68-ctrl/Testingg/actions/workflows/laravel-tests.yml/badge.svg)](https://github.com/faraapriliana68-ctrl/Testingg/actions/workflows/laravel-tests.yml)
 
 Project ini digunakan untuk belajar unit testing dan GitHub Actions di Laravel.
 ## About Laravel
